@@ -10,7 +10,12 @@
 
 ## 使用
 
-macOS 13 Ventura Beta2，opencore 0.8.2 开发版
+macOS 13 Ventura Beta3，opencore 0.8.3 开发版
+
+* 网卡正常
+* 声卡正常
+* 蓝牙正常，连接至Mac正常
+* Wi-Fi正常，隔空投送正常
 
 ## 感谢
 
